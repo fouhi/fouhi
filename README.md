@@ -21,6 +21,10 @@ I work with Python, Kali Linux, and virtualized lab environments.
 - Python for cybersecurity
 - Practical pentesting methodology
 
+## Certifications
+- CompTIA Security+
+- eJPT (in progress)
+
 ## Contact
 - GitHub: [fouhi](https://github.com/fouhi/)
 
