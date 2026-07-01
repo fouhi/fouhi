@@ -1,26 +1,21 @@
-# Hi, I'm [Dawid]
+# Hi, I'm Dawid
 
-Cybersecurity student focused on web security, networking, and hands-on lab building.  
-I work with Python, Flask, Docker, Kali Linux, and virtualized lab environments.
+Cybersecurity student focused on web security and hands-on lab building.  
+I work with Python, Kali Linux, and virtualized lab environments.
 
 ## Currently working on
 - Building a homelab for networking and security testing
 - Learning web application security and pentesting workflows
-- Improving Python and SQL skills for cybersecurity projects
+
 
 ## Projects
 - **Homelab** – notes, network setup, and self-hosted services
-- **Web Projects** – Flask-based apps and simple full-stack projects
-- **Security Labs** – DVWA, Juice Shop, testing environments, and writeups
+- **Security Labs** – DVWA, Juice Shop, testing environments, and writeups (in progress)
 
 ## Tech stack
 - Python
-- Flask
-- MySQL
-- Docker
 - Kali Linux
-- Proxmox / VirtualBox
-- HTML / CSS / JavaScript
+- Proxmox
 
 ## Learning now
 - Web application security
