@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
-
 # Hi, I'm Dawid
 
 Cybersecurity student focused on web security and hands-on lab building.  
@@ -16,9 +12,10 @@ I work with Python, Kali Linux, and virtualized lab environments.
 - **Security Labs** – DVWA, Juice Shop, testing environments, and writeups *(in progress)*
 
 ## Tech stack
-- Python
-- Kali Linux
-- Proxmox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ## Learning now
 - Web application security
