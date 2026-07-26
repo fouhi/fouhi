@@ -13,13 +13,12 @@ I work with Python, Kali Linux, and virtualized lab environments.
 ## Tech stack
 - Python
 - Kali Linux
-- Proxmox
-
+- SQL 
 ## Learning now
 - Web application security
-- JavaScript and SQL
-- Python for cybersecurity
-- Practical pentesting methodology
+- JavaScript basics 
+- Python for pentesting
+
 
 ## Certifications
 - CompTIA Security+
