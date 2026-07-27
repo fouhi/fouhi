@@ -1,7 +1,6 @@
 # Hi, I'm Dawid
 
-Cybersecurity student focused on web security and hands-on lab building.  
-I work with Python, Kali Linux, and virtualized lab environments.
+Cybersecurity student focused on web sec and hands-on lab building.  .
 
 ## Currently working on
 - Building a homelab for networking and security testing
