@@ -6,19 +6,15 @@ I work with Python, Kali Linux, and virtualized lab environments.
 ## Currently working on
 - Building a homelab for networking and security testing
 
-## Projects
-- **Homelab** – notes, network setup, and self-hosted services
-- **Security Labs** – DVWA, Juice Shop, testing environments, and writeups *(in progress)*
-
 ## Tech stack
 - Python
 - Kali Linux
-- SQL 
+- SQL
+
 ## Learning now
-- Web application security
+- Bash & Powershell
 - JavaScript basics 
 - Python for pentesting
-
 
 ## Certifications
 - CompTIA Security+
