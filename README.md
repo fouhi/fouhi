@@ -7,13 +7,13 @@ Cybersecurity student focused on web sec and hands-on lab building.  .
 
 ## Tech stack
 - Python
-- Kali Linux
+- Kali Linux (Metasploit, Nmap, Burp Suite and so on)
 - SQL
 
 ## Learning now
 - Bash & Powershell
 - JavaScript basics 
-- Python for pentesting
+- Python for pentesting and automation 
 
 ## Certifications
 - CompTIA Security+
@@ -21,4 +21,4 @@ Cybersecurity student focused on web sec and hands-on lab building.  .
 
 ## Contact
 - GitHub: [fouhi](https://github.com/fouhi/)
-
+- HTB: [pochmurnyy](https://profile.hackthebox.com/profile/019c3364-87f7-7087-b317-e926b173bf21)
