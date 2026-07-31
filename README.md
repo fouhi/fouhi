@@ -17,7 +17,7 @@ Cybersecurity student focused on web sec and hands-on lab building.  .
 
 ## Certifications
 - CompTIA Security+
-- eJPT (in progress)
+- eJPT (in progress 90% exam before 1 September) 
 
 ## Contact
 - GitHub: [fouhi](https://github.com/fouhi/)
