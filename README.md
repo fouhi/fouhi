@@ -16,7 +16,7 @@ Cybersecurity student focused on web sec and hands-on lab building.  .
 - Python for pentesting and automation 
 
 ## Certifications
-- CompTIA Security+ [<img src="/fouhi/pictures/CompTIA Security+ ce certificate.pdf" alt="Certificate" width="200">](https://your-link.example)
+- CompTIA Security+ [<img src="/fouhi/pictures/CompTIA Security+ ce certificate.pdf" alt="Certificate" width="200">](https://github.com/fouhi/fouhi/blob/main/pictures/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - eJPT (in progress 90% exam before 1 September) 
 
 ## Contact
